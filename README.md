@@ -4,7 +4,7 @@
 **Evaluación:** Parcial N°1  
 **Docente:** Carlos Alberto Orellana Soto  
 **Institución:** Duoc UC  
-**Fecha:** Septiembre 2026  
+**Fecha:** 15 Septiembre 2026  
 
 ---
 
