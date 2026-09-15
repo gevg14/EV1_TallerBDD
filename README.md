@@ -23,7 +23,7 @@ Backend para un **Sistema de Gestión Escolar (Libro de Clases Digital)** desarr
 ## 📐 Modelo Relacional
 El sistema está compuesto por **11 tablas** interrelacionadas:
 
-![Diagrama Relacional](img/modelo_relacional.png)
+![Diagrama Relacional](Diagrama_EV1_TallerBDD.png)
 
 ---
 
