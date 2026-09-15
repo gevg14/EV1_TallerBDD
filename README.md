@@ -37,8 +37,3 @@ El sistema está compuesto por **11 tablas** interrelacionadas:
 | **Bloque 4** | **INTEGRACIÓN**<br>*(RECORD + VARRAY + CURSOR)* | Reporte de excelencia académica: Identifica al mejor alumno por asignatura evaluando un arreglo de materias. | `e_sin_calificaciones` (Definida por usuario) |
 
 ---
-
-## 🚀 Instrucciones de Ejecución
-1. Clonar este repositorio:
-   ```bash
-   git clone [[https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/gevg14/EV1_TallerBDD.git))
