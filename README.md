@@ -41,4 +41,4 @@ El sistema está compuesto por **11 tablas** interrelacionadas:
 ## 🚀 Instrucciones de Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone [[https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/gevg14/EV1_TallerBDD.git))
