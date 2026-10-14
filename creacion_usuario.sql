@@ -1,0 +1,12 @@
+ALTER SESSION SET "_ORACLE_SCRIPT"=TRUE;
+ 
+-- Crear el usuario
+CREATE USER desarrollador IDENTIFIED BY "123456"
+DEFAULT TABLESPACE "USERS"
+TEMPORARY TABLESPACE "TEMP";
+ 
+-- Asignar cuota y permisos bÃ¡sicos
+ALTER USER desarrollador QUOTA UNLIMITED ON USERS;
+GRANT CREATE SESSION TO desarrollador;
+GRANT "RESOURCE" TO desarrollador;
+ALTER USER desarrollador DEFAULT ROLE "RESOURCE";
