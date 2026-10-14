@@ -1,3 +1,5 @@
+SET SERVEROUTPUT ON;
+
 -- 1. Procedimiento CON parametros: alumnos matriculados en un curso
 create or replace PROCEDURE sp_listar_alumnos_curso (
     p_id_curso IN cursos.id_curso%TYPE

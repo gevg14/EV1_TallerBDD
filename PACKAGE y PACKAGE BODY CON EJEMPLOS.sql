@@ -1,3 +1,5 @@
+SET SERVEROUTPUT ON;
+
 CREATE OR REPLACE PACKAGE pkg_gestion_academica
 IS
 
